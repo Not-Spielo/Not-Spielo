@@ -1,16 +1,19 @@
-## Hi there 👋
+```
+             (0)(0)-._  _.-'^^'^^'^^'^^'^^'--.
+   (.(.)----'`        ^^'                /^   ^^-._
+   (    `                 \             |    _    ^^-._
+    vvvvvvvvv~~`__,/.._>  /:/:/:/:/:/:/:/\  (_..,______^^-.
+     `^^^^^^^^`/  /   /  /`^^^^^^^^^>^^>^`>  >        _`)  )
+              (((`   (((`          (((`  (((`        `'--'^
 
-<!--
-**Not-Spielo/Not-Spielo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Grant Harvey  
+Spielo 
 
-Here are some ideas to get you started:
+I make music, video games, and other stuff. Currently completing a BS in CS at University of Dayton.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Contact:
+Discord:    @spielo  
+Email:      GrantHarvey616@gmail.com  
+Itch.io:    spielo.itch.io  
+Spotify:    [Spielo](https://open.spotify.com/artist/7g4cFZrtef5rQTPin36FVY)  
+```
