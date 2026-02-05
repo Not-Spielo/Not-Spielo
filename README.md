@@ -15,5 +15,5 @@ Contact:
 Discord:    @spielo  
 Email:      GrantHarvey616@gmail.com  
 Itch.io:    spielo.itch.io  
-Spotify:    [Spielo](https://open.spotify.com/artist/7g4cFZrtef5rQTPin36FVY)  
+Spotify:    https://open.spotify.com/artist/7g4cFZrtef5rQTPin36FVY  
 ```
